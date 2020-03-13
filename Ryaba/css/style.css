@@ -1,0 +1,16 @@
+#button-fetch {
+	width: 80px;
+	height: 50px;
+	background-color: blue;
+	border-radius: 20px;
+	color: white;
+	font-weight: bold;
+	margin: 15px;
+}
+
+#result {
+	margin: 10px;
+}
+
+
+
